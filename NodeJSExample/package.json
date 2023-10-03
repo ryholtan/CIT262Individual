@@ -1,0 +1,11 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "My first nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node helloworld.js"
+  },
+  "author": "Ryan",
+  "license": "ISC"
+}
